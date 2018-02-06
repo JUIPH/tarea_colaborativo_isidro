@@ -1,4 +1,11 @@
-Este archivo ser· utilizado para emular modificaciones en el proyecto colaborativo.
+Este archivo ser√° utilizado para emular modificaciones en el proyecto colaborativo.
 
+<<<<<<< HEAD
 Juan Isidro PÈrez Hern·ndez. 
 https://github.com/JUIPH/tarea_colaborativo_isidro
+=======
+Juan Isidro P√©rez Hern√°ndez.
+
+Marco Antonio Silva Villanueva
+https://github.com/marcS9/tarea_colaborativo_isidro
+>>>>>>> master
